@@ -1,3 +1,5 @@
 node_modules/
 .env
 *.log
+bigfile.txt
+copy_bigfile.txt
